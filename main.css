@@ -442,6 +442,11 @@ footer {
     color: hsl(210, 10%, 33%);
     font-weight: 600;
     text-decoration: none;
+    transition: 0.2s;
+}
+
+.links a:hover {
+    color: hsl(171, 66%, 44%);
 }
 
 .links #faq {
